@@ -91,7 +91,7 @@ Updated transaction history
 
 Can be exported for real business use
 
-<img width="1288" height="622" alt="Screenshot 2025-11-10 123409" src="https://github.com/user-attachments/assets/cbea80f4-8ec4-4b99-a05f-9df03efee2fe" />
+<img width="1288" height="622" alt="Screenshot 2025-11-10 123409" src="https://github.com/user-attachments/assets/226ce74a-5da7-4ca0-b833-c53924dcf22b" />
 
 
 🚀 Future Enhancements
