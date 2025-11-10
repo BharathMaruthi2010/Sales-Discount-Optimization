@@ -48,6 +48,22 @@ This system improves customer retention, boosts sales, and automates discount de
 ├── requirements.txt
 └── README.md
 
+PREVIEW
+
+<img width="1288" height="622" alt="Screenshot 2025-11-10 123409" src="https://github.com/user-attachments/assets/2f856d88-9e85-48ca-82e4-c6a00fc86206" />
+
+<img width="1165" height="422" alt="Screenshot 2025-11-10 123518" src="https://github.com/user-attachments/assets/a40d5a0a-da8d-4f79-ab19-270202a4f69e" />
+
+<img width="1112" height="472" alt="Screenshot 2025-11-10 123541" src="https://github.com/user-attachments/assets/2faa9baa-f29e-4aa2-a09b-efa081ac1466" />
+
+<img width="999" height="620" alt="Screenshot 2025-11-10 123637" src="https://github.com/user-attachments/assets/731feddb-1907-4256-9053-ed5381e8c04a" />
+
+<img width="944" height="616" alt="Screenshot 2025-11-10 123659" src="https://github.com/user-attachments/assets/7cbbca63-9989-41a4-8239-6f770b1e63d4" />
+
+<img width="937" height="526" alt="Screenshot 2025-11-10 124441" src="https://github.com/user-attachments/assets/0593dc0e-57d6-4d68-8c52-3d3e5db9f36c" />
+
+
+
 
 ---
 
@@ -92,7 +108,6 @@ Updated transaction history
 Can be exported for real business use
 
 <img width="1288" height="622" alt="Screenshot 2025-11-10 123409" src="https://github.com/user-attachments/assets/2f856d88-9e85-48ca-82e4-c6a00fc86206" />
-
 
 <img width="1165" height="422" alt="Screenshot 2025-11-10 123518" src="https://github.com/user-attachments/assets/a40d5a0a-da8d-4f79-ab19-270202a4f69e" />
 
